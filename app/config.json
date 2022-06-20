@@ -1,0 +1,19 @@
+{
+  "db": {
+    "driver" : "mysql",
+    "host" : "localhost",
+    "database" : "mymvc",
+    "username" : "root",
+    "password" : "root",
+    "charset" : "utf8",
+    "collation" : "utf8_unicode_ci",
+    "prefix" : ""
+  },
+
+  "debug": true,
+
+  "log": {
+    "write": true,
+    "path" : "/app/log"
+  }
+}

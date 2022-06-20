@@ -1,0 +1,10 @@
+.wrapper
+{
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+}
